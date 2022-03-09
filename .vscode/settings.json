@@ -1,0 +1,5 @@
+{
+  "pasteImage.path": "${currentFileDir}/screenshot",
+  "pasteImage.basePath": "${currentFileDir}/screenshot",
+  "pasteImage.prefix": "./screenshot/"
+}
